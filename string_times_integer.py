@@ -2,9 +2,11 @@
 
 # Created by: Jonathan Pasco-Arnone
 # Created on: December 2020
-# This program determines you grade middle percentage
+# This program prints the string the number of times specified by the integer
 
 def main():
+    # This function prints the string the number of times
+    # specified by the integer
 
     string = input("String: ")
     integer_str = input("Integer: ")
